@@ -1,18 +1,20 @@
 {
-"Shiva":
-[
-{
-"video_path":"https://d3snk42onv6maf.cloudfront.net/VSongs/Shiva/106449912_1182359542118954_7837679479488434248_n.mp4"
-},
-{
-"video_path":"https://d3snk42onv6maf.cloudfront.net/VSongs/Shiva/117190261_569930370351098_1670337166610171752_n.mp4"
-},
-{
-"video_path":"https://d3snk42onv6maf.cloudfront.net/VSongs/Shiva/130054291_520929192201023_7408541320082071446_n.mp4"
-},
-{
-"video_path":"https://d3snk42onv6maf.cloudfront.net/VSongs/Shiva/80470709_489432081685759_4891482496394463830_n.mp4"
-}
-]
-
+  "Shiva": [
+    {
+      "img_path": "https://d3snk42onv6maf.cloudfront.net/VSongs/imgShiva/106449912_1182359542118954_7837679479488434248_n_000.jpg",
+      "video_path": "https://d3snk42onv6maf.cloudfront.net/VSongs/Shiva/106449912_1182359542118954_7837679479488434248_n.mp4"
+    },
+    {
+      "img_path": "https://d3snk42onv6maf.cloudfront.net/VSongs/imgShiva/117190261_569930370351098_1670337166610171752_n_000.jpg",
+      "video_path": "https://d3snk42onv6maf.cloudfront.net/VSongs/Shiva/117190261_569930370351098_1670337166610171752_n.mp4"
+    },
+    {
+      "img_path": "https://d3snk42onv6maf.cloudfront.net/VSongs/imgShiva/130054291_520929192201023_7408541320082071446_n_000.jpg",
+      "video_path": "https://d3snk42onv6maf.cloudfront.net/VSongs/Shiva/130054291_520929192201023_7408541320082071446_n.mp4"
+    },
+    {
+      "img_path": "https://d3snk42onv6maf.cloudfront.net/VSongs/imgShiva/80470709_489432081685759_4891482496394463830_n_000.jpg",
+      "video_path": "https://d3snk42onv6maf.cloudfront.net/VSongs/Shiva/80470709_489432081685759_4891482496394463830_n.mp4"
+    }
+  ]
 }
